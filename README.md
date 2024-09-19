@@ -30,7 +30,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 
 
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
+Você também pode ver a lista de todos os [colaboradores](https://github.com/gp0987gp) que participaram deste projeto.
 
 
 ## 📄 Licença
