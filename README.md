@@ -22,11 +22,11 @@ Mencione as ferramentas que você usou para criar seu projeto
 ## ✒️ Autores
 
 
-* **Gabriel Lima** - *Fez tudo* - [Lima-Mei](https://github.com/gp0987gp)
-* **Lucas Ronaldo** - *Coach motivacional* - [Gideão](https://github.com/LucasRonaldo)
-* **Ana Luiza** - *Apoio emocional* - [Ana(sem apelido, nada maneira)](https://github.com/Analuuuiza)
-* **Renan** - *Careca* - [Careca](https://github.com/renanbno)
-* **Reginaldo** - *Só no energetico* - [Tors](https://github.com/Regisjr246)
+* **Gabriel Lima** - *a* - [Lima](https://github.com/gp0987gp)
+* **Lucas Ronaldo** - *a* - [Lucas](https://github.com/LucasRonaldo)
+* **Ana Luiza** - *a* - [Ana](https://github.com/Analuuuiza)
+* **Renan** - *Ca* - [Renan](https://github.com/renanbno)
+* **Reginaldo** - *a* - [Reginaldo](https://github.com/Regisjr246)
 
 
 
@@ -37,7 +37,7 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/gp
 ## 📄 Licença
 
 
-Este projeto está sob a licença MANEIRA- veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+Este projeto está sob a licença MANEIRA- veja o arquivo [LICENSE.md](youtube.com) para detalhes.
 
 
 
