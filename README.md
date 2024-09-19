@@ -10,10 +10,11 @@ Um sistema que vai ser maneiro pros postos de saude
 
 Mencione as ferramentas que você usou para criar seu projeto
 
-* [PHP](http://www.dropwizard.io/1.0.2/docs/) - Linguagem de programação usada
-* [MYSQL](https://maven.apache.org/) - Banco de dados
-* [BLADE](https://rometools.github.io/rome/) - Template Engine
-* [Laravel](https://rometools.github.io/rome/) - Framework
+* [PHP](https://www.php.net/docs.php) - Linguagem de programação usada
+* [MYSQL](https://dev.mysql.com/doc/) - Banco de dados
+* [Laravel](https://laravel.com/) - Framework
+* [BLADE](https://laravel.com/docs/11.x/blade) - Template Engine
+
 
 
 
@@ -43,7 +44,7 @@ Este projeto está sob a licença MANEIRA- veja o arquivo [LICENSE.md](https://g
 ## 🎁 Expressões de gratidão
 
 * Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
+* Convide alguém da equipe para um café;
 
 
 
