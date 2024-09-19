@@ -22,11 +22,11 @@ Mencione as ferramentas que você usou para criar seu projeto
 ## ✒️ Autores
 
 
-* **Gabriel Lima** - *a* - [Lima](https://github.com/gp0987gp)
-* **Lucas Ronaldo** - *a* - [Lucas](https://github.com/LucasRonaldo)
-* **Ana Luiza** - *a* - [Ana](https://github.com/Analuuuiza)
-* **Renan** - *Ca* - [Renan](https://github.com/renanbno)
-* **Reginaldo** - *a* - [Reginaldo](https://github.com/Regisjr246)
+* **Gabriel Lima** - [Lima](https://github.com/gp0987gp)
+* **Lucas Ronaldo** - [Lucas](https://github.com/LucasRonaldo)
+* **Ana Luiza** - [Ana](https://github.com/Analuuuiza)
+* **Renan** - [Renan](https://github.com/renanbno)
+* **Reginaldo** - [Reginaldo](https://github.com/Regisjr246)
 
 
 
