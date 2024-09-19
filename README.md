@@ -4,6 +4,8 @@
 Um sistema que vai ser maneiro pros postos de saude 
 
 
+
+
 ## 🛠️ Construído com
 
 Mencione as ferramentas que você usou para criar seu projeto
@@ -15,13 +17,8 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 
 
-><!--## 🖇️ Colaborando
-
-><!--Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
-
 
 ## ✒️ Autores
-
 
 
 * **Gabriel Lima** - *Fez tudo* - [Lima-Mei](https://github.com/gp0987gp)
@@ -35,9 +32,13 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
 
+
 ## 📄 Licença
 
+
 Este projeto está sob a licença MANEIRA- veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+
+
 
 ## 🎁 Expressões de gratidão
 
