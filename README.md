@@ -37,7 +37,7 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/gp
 ## 📄 Licença
 
 
-Este projeto está sob a licença MANEIRA- veja o arquivo [LICENSE.md](youtube.com) para detalhes.
+Este projeto está sob a licença MANEIRA- veja o arquivo [LICENSE.md] para detalhes.
 
 
 
