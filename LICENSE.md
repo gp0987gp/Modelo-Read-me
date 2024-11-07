@@ -4,7 +4,7 @@
 
 ## 1. Concessão de Licença
 
-O Licenciante concede ao Licenciado uma licença não exclusiva, intransferível, limitada e revogável para utilizar o software denominado **SuperApp v1.0** ("Software"), exclusivamente para fins **comerciais** em **plataformas Windows, macOS e Linux**. Esta licença não concede ao Licenciado quaisquer direitos sobre o código-fonte do Software, o qual permanece de propriedade exclusiva do Licenciante.
+O Licenciante concede ao Licenciado uma licença não exclusiva, intransferível, limitada e revogável para utilizar o software denominado **Centro Médico Digital(CMD) v1.0** ("Software"), exclusivamente para fins **comerciais** em **plataformas Windows, macOS e Linux**. Esta licença não concede ao Licenciado quaisquer direitos sobre o código-fonte do Software, o qual permanece de propriedade exclusiva do Licenciante.
 
 ## 2. Restrições de Uso
 
