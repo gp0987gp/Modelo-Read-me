@@ -1,4 +1,5 @@
 # CMD - CENTRO MÉDICO DIGITAL
+![CMD](./assets//1-removebg-preview.png)
 
 Um sistema que vai ser maneiro pros postos de saúde
 
