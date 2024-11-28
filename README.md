@@ -4,15 +4,14 @@ Um sistema que vai ser maneiro pros postos de saúde
 
 
 ## Dependências e Versões Necessárias
-
-* [PHP](https://www.php.net/docs.php) - Linguagem de programação usada
+* [Xampp](https://www.apachefriends.org/pt_br/download.html) 
+* [PHP](https://www.php.net/docs.php) - Linguagem de programação 
 * [MYSQL](https://dev.mysql.com/doc/) - Banco de dados
 * [Laravel](https://laravel.com/) - Framework
-* [BLADE](https://laravel.com/docs/11.x/blade) - Template Engine
+
 
 ## Como rodar o projeto ✅
-
-Descreva o passo a passo necessário para rodar sua aplicação. Lembre-se: a pessoa nunca rodou seu projeto. Não tenha medo de detalhar o máximo possível. Isso é necessário!
+Rodar o mysql e o apache
 
 Uma boa forma de descrever o passo a passo é:
 
@@ -26,7 +25,10 @@ cd cmd
 composer update
 ```
 ```
-
+php artisan migrate
+```
+```
+php artisan serve
 ```
 
 Deixe claro como a pessoa pode confirmar que a aplicação está rodando da forma correta. Pode ser com prints ou a mensagem que ela deve esperar.
