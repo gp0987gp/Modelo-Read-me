@@ -20,11 +20,13 @@ Uma boa forma de descrever o passo a passo é:
 git clone https://github.com/alexfigueirinha/cmd.git
 ```
 ```
-composer update 
+cd cmd
 ```
 ```
+composer update
 ```
 ```
+
 ```
 
 Deixe claro como a pessoa pode confirmar que a aplicação está rodando da forma correta. Pode ser com prints ou a mensagem que ela deve esperar.
