@@ -11,6 +11,32 @@ Mencione as ferramentas que você usou para criar seu projeto
 * [Laravel](https://laravel.com/) - Framework
 * [BLADE](https://laravel.com/docs/11.x/blade) - Template Engine
 
+* 
+## Dependências e Versões Necessárias
+
+Liste as dependências necessárias para rodar o projeto e as versões que você utilizou.
+
+* Docker - Versão: X.X
+
+## Como rodar o projeto ✅
+
+Descreva o passo a passo necessário para rodar sua aplicação. Lembre-se: a pessoa nunca rodou seu projeto. Não tenha medo de detalhar o máximo possível. Isso é necessário!
+
+Uma boa forma de descrever o passo a passo é:
+
+```
+Comando 1
+```
+
+Depois, rode o seguinte comando:
+
+```
+Comando 2
+```
+
+Deixe claro como a pessoa pode confirmar que a aplicação está rodando da forma correta. Pode ser com prints ou a mensagem que ela deve esperar.
+
+
 ## ✒️ Autores
 
 * **Gabriel Lima** - [Lima](https://github.com/gp0987gp)
