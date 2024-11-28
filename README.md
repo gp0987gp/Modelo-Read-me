@@ -5,8 +5,6 @@ Um sistema que vai ser maneiro pros postos de saúde
 
 ## Dependências e Versões Necessárias
 
-Liste as dependências necessárias para rodar o projeto e as versões que você utilizou.
-
 * [PHP](https://www.php.net/docs.php) - Linguagem de programação usada
 * [MYSQL](https://dev.mysql.com/doc/) - Banco de dados
 * [Laravel](https://laravel.com/) - Framework
@@ -19,13 +17,14 @@ Descreva o passo a passo necessário para rodar sua aplicação. Lembre-se: a pe
 Uma boa forma de descrever o passo a passo é:
 
 ```
-Comando 1
+git clone https://github.com/alexfigueirinha/cmd.git
 ```
-
-Depois, rode o seguinte comando:
-
 ```
-Comando 2
+composer update 
+```
+```
+```
+```
 ```
 
 Deixe claro como a pessoa pode confirmar que a aplicação está rodando da forma correta. Pode ser com prints ou a mensagem que ela deve esperar.
