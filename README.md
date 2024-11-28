@@ -2,21 +2,15 @@
 
 Um sistema que vai ser maneiro pros postos de saúde
 
-## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
+## Dependências e Versões Necessárias
+
+Liste as dependências necessárias para rodar o projeto e as versões que você utilizou.
 
 * [PHP](https://www.php.net/docs.php) - Linguagem de programação usada
 * [MYSQL](https://dev.mysql.com/doc/) - Banco de dados
 * [Laravel](https://laravel.com/) - Framework
 * [BLADE](https://laravel.com/docs/11.x/blade) - Template Engine
-
-* 
-## Dependências e Versões Necessárias
-
-Liste as dependências necessárias para rodar o projeto e as versões que você utilizou.
-
-* Docker - Versão: X.X
 
 ## Como rodar o projeto ✅
 
