@@ -10,17 +10,6 @@ O Centro Médico Digital - CMD tem como meta aprimorar a eficiência e a qualida
 * [MYSQL](https://dev.mysql.com/doc/) - Banco de dados
 * [Laravel](https://laravel.com/) - Framework
 
-## Requisitos adicionais
-
-* Extensões do PHP necessárias:
-  * PDO
-  * Mbstring
-  * OpenSSL
-  * Tokenizer
-  * XML
-
-Certifique-se de que essas extensões estão habilitadas no seu ambiente.
-
 ## Como rodar o projeto ✅
 1. Clone este repositório para o seu ambiente de desenvolvimento local utilizando o comando:
 ```
