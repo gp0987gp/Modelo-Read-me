@@ -85,12 +85,12 @@ Após rodar o servidor, acesse `http://localhost:8000/home` em seu navegador. Vo
           <a href="https://github.com/LucasRonaldo">Lucas Ronaldo</a>
           <td align="center">
       <a href="#">
-        <img src="./assets/CMD-logo.png" width="100px;" alt="Foto Regis"/><br>
+        <img src="./assets/regis.png" width="100px;" alt="Foto Regis"/><br>
         <sub>
           <a href="https://github.com/Regisjr246">Reginaldo</a>
           <td align="center">
       <a href="#">
-        <img src="./assets/CMD-logo.png" width="100px;" alt="Foto Renan"/><br>
+        <img src="./assets/renan.png" width="100px;" alt="Foto Renan"/><br>
         <sub>
           <a href="https://github.com/renanbno">Renan </a>
 
