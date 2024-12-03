@@ -6,7 +6,7 @@ O Centro Médico Digital - CMD tem como meta aprimorar a eficiência e a qualida
 
 ## Dependências e Versões Necessárias
 * [Xampp](https://www.apachefriends.org/pt_br/download.html)
-* PHP >= 7.4
+* [PHP](https://www.php.net/) >= 8.2.0
 * [MYSQL](https://dev.mysql.com/doc/) - Banco de dados
 * [Laravel](https://laravel.com/) - Framework
 
