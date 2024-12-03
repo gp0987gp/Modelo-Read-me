@@ -23,41 +23,41 @@ Certifique-se de que essas extensões estão habilitadas no seu ambiente.
 
 ## Como rodar o projeto ✅
 1. Clone este repositório para o seu ambiente de desenvolvimento local utilizando o comando:
-
+```
 git clone https://github.com/alexfigueirinha/cmd.git
-
+```
 
 2. Acesse o diretório do projeto:
-
+```
 cd cmd
-
+```
 
 3. Copie o arquivo `.env.example` para `.env`:
-
+```
 cp .env.example .env
-
+```
 
 4. Configure o arquivo `.env` com suas credenciais de banco de dados.
    
 5. Atualize o Composer:
-
+```
 composer update
-
+```
 
 6. Rodando o Migrate:
-
+```
 php artisan migrate
-
+```
 
 7. Inicializando o Seeder:
-
+```
 php artisan db:seed
-
+```
 
 8. Inicializando o Servidor:
-
+```
 php artisan serve
-
+```
 
 Após rodar o servidor, acesse `http://localhost:8000/home` em seu navegador. Você deverá ver a página inicial da aplicação CMD.
 
