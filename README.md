@@ -2,7 +2,7 @@
 
 O Centro Médico Digital - CMD tem como meta aprimorar a eficiência e a qualidade do atendimento em postos de saúde, ao mesmo tempo em que oferece insights essenciais para a prevenção e monitoramento de doenças. Ao digitalizar processos e registros, o sistema minimiza a burocracia, permitindo que os profissionais de saúde direcionem sua atenção de forma mais eficaz ao cuidado dos pacientes.
 
-![CMD](./assets//1-removebg-preview.png)
+![CMD](./assets/CMD-logo.png)
 
 ## Dependências e Versões Necessárias
 * [Xampp](https://www.apachefriends.org/pt_br/download.html)
@@ -68,22 +68,34 @@ Após rodar o servidor, acesse `http://localhost:8000/home` em seu navegador. Vo
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        <img src="./assets/CMD-logo.png" width="100px;" alt="Foto Lima"/><br>
         <sub>
           <a href="https://github.com/gp0987gp">Gabriel Lima</a>
         </sub>
       </a>
-    </td>
     <td align="center">
       <a href="#">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <img src="./assets/CMD-logo.png" width="100px;" alt="Foto Ana"/><br>
         <sub>
-          <a href="https://www.example.com">Lucas Ronaldo</a>
+          <a href="https://github.com/Analuuuiza">Ana Luiza<a>
+          <td align="center">
+      <a href="#">
+        <img src="./assets/CMD-logo.png" width="100px;" alt="Foto Lucas"/><br>
+        <sub>
+          <a href="https://github.com/LucasRonaldo">Lucas Ronaldo</a>
+          <td align="center">
+      <a href="#">
+        <img src="./assets/CMD-logo.png" width="100px;" alt="Foto Regis"/><br>
+        <sub>
+          <a href="https://github.com/Regisjr246">Reginaldo</a>
+          <td align="center">
+      <a href="#">
+        <img src="./assets/CMD-logo.png" width="100px;" alt="Foto Renan"/><br>
+        <sub>
+          <a href="https://github.com/renanbno">Renan </a>
+
   </tr>
 </table>
-
-
-Você também pode ver a lista de todos os [colaboradores](https://github.com/gp0987gp) que participaram deste projeto.
 
 ## 📄 Licença
 
