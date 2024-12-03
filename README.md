@@ -70,7 +70,7 @@ Após rodar o servidor, acesse `http://localhost:8000/home` em seu navegador. Vo
       <a href="#">
         <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
         <sub>
-          <a href="https://www.example.com">Click here to visit Example</a>
+          <a href="https://github.com/gp0987gp">Gabriel Lima</a>
         </sub>
       </a>
     </td>
@@ -78,7 +78,7 @@ Após rodar o servidor, acesse `http://localhost:8000/home` em seu navegador. Vo
       <a href="#">
         <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
         <sub>
-          <a href="https://www.example.com">Click here to visit Example</a>
+          <a href="https://www.example.com">Lucas Ronaldo</a>
   </tr>
 </table>
 
