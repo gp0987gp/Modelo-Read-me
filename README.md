@@ -88,7 +88,7 @@ Após rodar o servidor, acesse `http://localhost:8000/home` em seu navegador. Vo
 
 ## 📄 Licença
 
-Este projeto está sob a licença **MIT** - veja o arquivo [LICENSE.md](./LICENSE.md) para detalhes.
+Este projeto está sob a licença **CC0 1.0 Universal** - veja o arquivo [LICENSE](./LICENSE) para detalhes.
 
 ## 🎁 Expressões de gratidão
 
