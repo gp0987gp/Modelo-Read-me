@@ -4,46 +4,62 @@ O Centro Médico Digital - CMD tem como meta aprimorar a eficiência e a qualida
 
 ![CMD](./assets//1-removebg-preview.png)
 
-
 ## Dependências e Versões Necessárias
-* [Xampp](https://www.apachefriends.org/pt_br/download.html) 
-* [PHP](https://www.php.net/docs.php) - Linguagem de programação 
+* [Xampp](https://www.apachefriends.org/pt_br/download.html)
+* PHP >= 7.4
 * [MYSQL](https://dev.mysql.com/doc/) - Banco de dados
 * [Laravel](https://laravel.com/) - Framework
 
+## Requisitos adicionais
+
+* Extensões do PHP necessárias:
+  * PDO
+  * Mbstring
+  * OpenSSL
+  * Tokenizer
+  * XML
+
+Certifique-se de que essas extensões estão habilitadas no seu ambiente.
 
 ## Como rodar o projeto ✅
-Rodar o mysql e o apache
-
-Uma boa forma de descrever o passo a passo é:
-
 1. Clone este repositório para o seu ambiente de desenvolvimento local utilizando o comando:
-```
+
 git clone https://github.com/alexfigueirinha/cmd.git
-```
+
+
 2. Acesse o diretório do projeto:
-```
+
 cd cmd
-```
-3. Atualizando o Composer:
-```
+
+
+3. Copie o arquivo `.env.example` para `.env`:
+
+cp .env.example .env
+
+
+4. Configure o arquivo `.env` com suas credenciais de banco de dados.
+   
+5. Atualize o Composer:
+
 composer update
-```
-4. Rodando o Migrate:
-```
+
+
+6. Rodando o Migrate:
+
 php artisan migrate
-```
-5. Inicializando o Seeder:
-```
+
+
+7. Inicializando o Seeder:
+
 php artisan db:seed
-```
-6. Inicializando o Servidor:
-```
+
+
+8. Inicializando o Servidor:
+
 php artisan serve
-```
 
-Deixe claro como a pessoa pode confirmar que a aplicação está rodando da forma correta. Pode ser com prints ou a mensagem que ela deve esperar.
 
+Após rodar o servidor, acesse `http://localhost:8000/home` em seu navegador. Você deverá ver a página inicial da aplicação CMD.
 
 ## ✒️ Autores
 
@@ -57,9 +73,17 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/gp
 
 ## 📄 Licença
 
-Este projeto está sob a licença **MANEIRA** - veja o arquivo [LICENSE.md](./LICENSE.md) para detalhes.
+Este projeto está sob a licença **MIT** - veja o arquivo [LICENSE.md](./LICENSE.md) para detalhes.
 
 ## 🎁 Expressões de gratidão
 
 * Conte a outras pessoas sobre este projeto 📢;
 * Convide alguém da equipe para um café;
+
+## Como Contribuir
+
+1. Fork o repositório
+2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`)
+3. Commit suas alterações (`git commit -am 'Adicionando nova feature'`)
+4. Push para a branch (`git push origin feature/nova-feature`)
+5. Abra um Pull Request
